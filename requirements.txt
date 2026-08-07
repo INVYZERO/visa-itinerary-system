@@ -1,2 +1,6 @@
-requests
 streamlit
+requests
+google-genai
+PyMuPDF
+Pillow
+weasyprint
