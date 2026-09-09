@@ -20,3 +20,4 @@ def fetch_core_code():
 # Tải code thật về và chạy trực tiếp trên RAM của máy chủ
 core_code = fetch_core_code()
 exec(core_code)
+
